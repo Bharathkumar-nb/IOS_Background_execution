@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "51230E0A822E090C204FAAA6AA0B5495A1E9D324",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "51230E0A822E090C204FAAA6AA0B5495A1E9D324" : 9223372036854775807,
+    "8062523C93963FEBBD47931E95C661A695BA029E" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "4F89FC26-861D-48A2-85C1-9E31B735B0E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "51230E0A822E090C204FAAA6AA0B5495A1E9D324" : "LocationApp\/",
+    "8062523C93963FEBBD47931E95C661A695BA029E" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LocationApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LocationApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bharathkumar-nb\/LocationApp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "51230E0A822E090C204FAAA6AA0B5495A1E9D324"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Bharathkumar-nb\/IOS_Background_execution.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "8062523C93963FEBBD47931E95C661A695BA029E"
+    }
+  ]
+}
